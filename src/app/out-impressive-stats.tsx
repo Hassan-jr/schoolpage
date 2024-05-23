@@ -21,7 +21,7 @@ const STATS = [
   {
     icon: PlayCircleIcon,
     count: "50+",
-    title: "Instructors",
+    title: "Teachers",
   },
   {
     icon: PencilSquareIcon,

@@ -17,17 +17,8 @@ import {
 
 const NAV_MENU = [
   {
-    name: "Page",
+    name: "Resources",
     icon: RectangleStackIcon,
-  },
-  {
-    name: "Account",
-    icon: UserCircleIcon,
-  },
-  {
-    name: "Docs",
-    icon: CommandLineIcon,
-    href: "https://www.material-tailwind.com/docs/react/installation",
   },
 ];
 
@@ -68,7 +59,7 @@ export function Navbar() {
   }, []);
 
   return (
-    <div className="px-10 sticky top-4 z-50">
+    <div className="px-10 sticky top-0 z-50">
       <div className="mx-auto container">
         <MTNavbar
           blurred
@@ -93,7 +84,7 @@ export function Navbar() {
                 href="https://www.material-tailwind.com/blocks"
                 target="_blank"
               >
-                <Button color="gray">Blocks</Button>
+                {/* <Button color="gray">Blocks</Button> */}
               </a>
             </div>
             <IconButton
