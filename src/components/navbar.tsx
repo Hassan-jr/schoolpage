@@ -59,7 +59,7 @@ export function Navbar() {
   }, []);
 
   return (
-    <div className="px-10 sticky top-0 z-50">
+    <div className="px-0 sticky top-0 z-50">
       <div className="mx-auto container">
         <MTNavbar
           blurred
@@ -71,8 +71,8 @@ export function Navbar() {
               Material Tailwind
             </Typography>
             <ul className="ml-10 hidden items-center gap-8 lg:flex">
-              {NAV_MENU.map(({ name, icon: Icon, href }) => (
-                <NavItem key={name} href={href}>
+              {NAV_MENU.map(({ name, icon: Icon }) => (
+                <NavItem key={name} href="">
                   <Icon className="h-5 w-5" />
                   {name}
                 </NavItem>
