@@ -64,7 +64,7 @@ export function Navbar() {
         <MTNavbar
           blurred
           color="white"
-          className="z-50 mt-6 relative border-0 pr-3 py-3 pl-6"
+          className="z-50 lg:mt-6 relative border-0 pr-3 py-3 pl-6"
         >
           <div className="flex items-center justify-between">
             <Typography color="blue-gray" className="text-lg font-bold">
