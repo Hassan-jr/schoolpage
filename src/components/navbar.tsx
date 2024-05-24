@@ -79,7 +79,9 @@ export function Navbar() {
               ))}
             </ul>
             <div className="hidden items-center gap-4 lg:flex">
-              <Button variant="text">Log in</Button>
+              <a href="https://relsoft-isp-dashboard.vercel.app/authentication/sign-in" target="_blank">
+                <Button variant="text">Log in</Button>
+              </a>
               <a
                 href="https://relsoft-isp-dashboard.vercel.app//blocks"
                 target="_blank"
@@ -111,7 +113,12 @@ export function Navbar() {
                 ))}
               </ul>
               <div className="mt-6 mb-4 flex items-center gap-4">
-                <Button variant="text">Log in</Button>
+                <a
+                  href="https://relsoft-isp-dashboard.vercel.app/authentication/sign-in"
+                  target="_blank"
+                >
+                  <Button>Log in</Button>
+                </a>
                 <a
                   href="https://relsoft-isp-dashboard.vercel.app/authentication/sign-in"
                   target="_blank"
