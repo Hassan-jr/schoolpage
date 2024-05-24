@@ -5,48 +5,28 @@ import CourseCard from "@/components/course-card";
 
 const COURSES = [
   {
-    img: "/image/blogs/blog4.svg",
+    img: "/image/quran2.jpg",
     tag: "Beginner • 25 Classes • 200 Students",
-    title: "Unlock the Web Foundation",
+    title: "Quran Memorization",
     label: "from $99",
-    desc: "Dive into HTML to structure your content and CSS to style it. By the end, you'll be crafting beautiful web pages from scratch.",
+    desc: "Begin your journey of Quran memorization with our comprehensive course. Designed for beginners, this course will guide you through the steps of memorizing the Quran with proper Tajweed, preparing you for participation in recitation competitions and deepening your spiritual connection.",
   },
   {
-    img: "/image/blogs/blog3.svg",
+    img: "/image/history.jpg",
     tag: "Medium • 10 Classes • 150 Students",
-    title: "Craft Websites That Adapt",
+    title: "Islamic History",
     label: "from $199",
-    desc: "Our Responsive Design course teaches you the art of creating websites that seamlessly adapt to different devices and screen sizes.",
+    desc: "Explore the rich history of Islamic civilization, from the time of the Prophet Muhammad (PBUH) to the present day. Understand the contributions of Muslims to various fields of knowledge.",
   },
   {
-    img: "/image/blogs/blog2.svg",
+    img: "/image/quran1.jpg",
     tag: "Medium • 23 Classes • 590 Students",
-    title: "Master the Power of React",
+    title: "Arabic Language Mastery",
     label: "from $499",
-    desc: "Take your frontend development to the next level with our React Development course. Learn how to build interactive, dynamic web applications.",
-  },
-  {
-    img: "/image/blogs/blog5.svg",
-    tag: "Beginner • 35 Classes • 400 Students",
-    title: "Frontend Essentials Course",
-    label: "from $49",
-    desc: "For aspiring web developers, the Frontend Essentials course is a must. Dive into the core technologies - HTML, CSS, and JavaScript.",
-  },
-  {
-    img: "/image/blogs/blog6.svg",
-    tag: "Medium • 10 Classes • 150 Students",
-    title: "Streamline Your CSS Workflow",
-    label: "from $99",
-    desc: "Our Tailwind CSS Introduction course teaches you how to use this utility-first CSS framework to streamline your workflow, saving you time.",
-  },
-  {
-    img: "/image/blogs/blog4.svg",
-    tag: "Medium • 33 Classes • 690 Students",
-    title: "Master Backend Development",
-    label: "from $299",
-    desc: "Dream of becoming a backend developer? Our intensive one-month Node.js course is your fast track to achieving that goal.",
+    desc: "Master the Arabic language, the key to accessing the Quran and classical Islamic texts. This course covers reading, writing, and conversational skills for all levels.",
   },
 ];
+
 
 export function ExploreCourses() {
   return (

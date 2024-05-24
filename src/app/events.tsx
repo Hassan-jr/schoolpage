@@ -6,28 +6,28 @@ import EventCard from "@/components/event-card";
 
 const EVENTS = [
   {
-    img: "/image/blogs/blog-1.svg",
-    title: "Future of Web Development: Trends and Innovations",
-    desc: "Discover the latest trends and innovations shaping the future of web development.",
+    img: "/image/quranC.jpg",
+    title: "Ramadan Quran Recitation Competition",
+    desc: "Ramadan Quran Recitation Competition Will Start Soon All Schools and Their Students Must Register Before the Due Date. The Competition Will Start On First Day of Ramadan and It Will End Day 27 of the Holy Month",
     buttonLabel: "register for free",
   },
   {
-    img: "/image/blogs/blog2.svg",
-    title: "WebDev Pro Code-a-Thon: Build a Responsive Website",
-    desc: "Participants will have 48 hours to create a responsive website from scratch using HTML, CSS, and JavaScript.",
+    img: "/image/quranC.jpg",
+    title: "Ramadan Quran Recitation Competition",
+    desc: "Ramadan Quran Recitation Competition Will Start Soon All Schools and Their Students Must Register Before the Due Date. The Competition Will Start On First Day of Ramadan and It Will End Day 27 of the Holy Month",
     buttonLabel: "register for free",
   },
   {
-    img: "/image/blogs/blog3.svg",
-    title: "Ask the Experts: Frontend Web Development",
-    desc: "Join our live Q&A session with our experienced instructors. Get answers to your queries, insights into best practices.",
-    buttonLabel: "get ticket",
+    img: "/image/quranC.jpg",
+    title: "Ramadan Quran Recitation Competition",
+    desc: "Ramadan Quran Recitation Competition Will Start Soon All Schools and Their Students Must Register Before the Due Date. The Competition Will Start On First Day of Ramadan and It Will End Day 27 of the Holy Month",
+    buttonLabel: "register for free",
   },
   {
-    img: "/image/blogs/blog4.svg",
-    title: "Web Accessibility: Building Inclusive Websites",
-    desc: "Industry experts will discuss the importance of inclusive design and share strategies for creating websites.",
-    buttonLabel: "get ticket",
+    img: "/image/quranC.jpg",
+    title: "Ramadan Quran Recitation Competition",
+    desc: "Ramadan Quran Recitation Competition Will Start Soon All Schools and Their Students Must Register Before the Due Date. The Competition Will Start On First Day of Ramadan and It Will End Day 27 of the Holy Month",
+    buttonLabel: "register for free",
   },
 ];
 
@@ -42,7 +42,7 @@ export function Events() {
           variant="lead"
           className="mx-auto w-full px-4 font-normal !text-gray-500 lg:w-6/12"
         >
-          Join our web development events designed to share insights, trends,
+          Join our events designed to share insights, trends,
           and real-world experiences.
         </Typography>
       </div>

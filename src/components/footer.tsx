@@ -2,16 +2,16 @@ import { Typography, Button, Input } from "@material-tailwind/react";
 
 const LINKS = [
   {
-    title: "Company",
-    items: ["About Us", "Careers", "Premium Tools", "Blog"],
+    title: "Schools",
+    items: ["About Us", "Careers", "Resources"],
   },
   {
     title: "Pages",
-    items: ["Login", "Register", "Add List", "Contact"],
+    items: ["Login", "Register", "Contact"],
   },
   {
     title: "Legal",
-    items: ["Terms", "Privacy", "Team", "About Us"],
+    items: ["Terms", "Privacy", "About Us"],
   },
 ];
 

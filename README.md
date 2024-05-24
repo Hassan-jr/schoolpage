@@ -14,7 +14,7 @@ This template, created with Tailwind CSS and Material Tailwind, offers seamless 
 
 Each element is well presented in very complex documentation.
 
-You can read more about the [documentation here](https://www.material-tailwind.com/docs/react/installation).
+You can read more about the [documentation here](https://relsoft-isp-dashboard.vercel.app//docs/react/installation).
 
 **HELPFUL LINKS**
 
@@ -36,7 +36,7 @@ Quick start options:
 
 ## Documentation
 
-The documentation for the Material Dashboard is hosted at our [website](https://www.material-tailwind.com/docs/react/installation?ref=readme-ntpp).
+The documentation for the Material Dashboard is hosted at our [website](https://relsoft-isp-dashboard.vercel.app//docs/react/installation?ref=readme-ntpp).
 
 ## Browser Support
 
@@ -48,7 +48,7 @@ At present, we officially aim to support the last two versions of the following 
 
 - [Live Preview](https://demos.creative-tim.com/nextjs-tailwind-course-landing-page?ref=readme-ntpp)
 - [Download Page](https://www.creative-tim.com/product/nextjs-tailwind-course-landing-page?ref=readme-ntpp)
-- Documentation is [here](https://www.material-tailwind.com/docs/react/installation?ref=readme-ntpp)
+- Documentation is [here](https://relsoft-isp-dashboard.vercel.app//docs/react/installation?ref=readme-ntpp)
 - [License Agreement](https://www.creative-tim.com/license?ref=readme-ntpp)
 - [Support](https://www.creative-tim.com/contact-us?ref=readme-ntpp)
 - Issues: [Github Issues Page](https://github.com/creativetimofficial/nextjs-tailwind-course-landing-page/issues)

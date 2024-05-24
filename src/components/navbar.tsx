@@ -81,7 +81,7 @@ export function Navbar() {
             <div className="hidden items-center gap-4 lg:flex">
               <Button variant="text">Log in</Button>
               <a
-                href="https://www.material-tailwind.com/blocks"
+                href="https://relsoft-isp-dashboard.vercel.app//blocks"
                 target="_blank"
               >
                 {/* <Button color="gray">Blocks</Button> */}
@@ -113,7 +113,7 @@ export function Navbar() {
               <div className="mt-6 mb-4 flex items-center gap-4">
                 <Button variant="text">Log in</Button>
                 <a
-                  href="https://www.material-tailwind.com/blocks"
+                  href="https://relsoft-isp-dashboard.vercel.app/authentication/sign-in"
                   target="_blank"
                 >
                   <Button color="gray">blocks</Button>
